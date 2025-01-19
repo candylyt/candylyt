@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hello! My name is Yuting. I am passionate about developing accessible technology in the fields of sports and healthcare. Additionally, I create digital tools that enhance productivity for businesses, such as those in the cryptocurrency and manufacturing sectors.
+
+Currently, I am developing an AI Sports Analytics system that detects shooting and scoring moments in basketball games. This system also generates statistical reports to help amateur players improve their game performance.
+
+## Tech Stack 👋
