@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 <!--
 **candylyt/candylyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Yuting. I am passionate about developing accessible technology in the fields of sports and healthcare. Additionally, I create digital tools that enhance productivity for businesses, such as those in the cryptocurrency and manufacturing sectors.
