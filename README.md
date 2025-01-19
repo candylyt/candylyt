@@ -19,4 +19,5 @@ Hello! My name is Yuting. I am passionate about developing accessible technology
 
 Currently, I am developing an AI Sports Analytics system that detects shooting and scoring moments in basketball games. This system also generates statistical reports to help amateur players improve their game performance.
 
-## Tech Stack 👋
+## Tech Stack 💻
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png
