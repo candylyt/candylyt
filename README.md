@@ -42,3 +42,10 @@ Currently, I am developing an AI Sports Analytics system that detects shooting a
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 </div>
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
+
+
+<a href="https://github.com/candylyt/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=candylyt" />
+</a>
+
+
