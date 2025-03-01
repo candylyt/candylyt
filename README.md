@@ -43,9 +43,10 @@ Currently, I am developing an AI Sports Analytics system that detects shooting a
 </div>
 <!-- https://marwin1991.github.io/profile-technology-icons/ -->
 
+<br/>
+<br/>
 
-<a href="https://github.com/candylyt/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=candylyt" />
-</a>
+![Yuting's GitHub stats](https://github-readme-stats.vercel.app/api?username=candylyt&show_icons=true&bg_color=00000000&show=reviews,prs_merged) &nbsp;&nbsp;		
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candylyt&size_weight=0.5&count_weight=0.5)
 
 
