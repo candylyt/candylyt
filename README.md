@@ -46,7 +46,8 @@ I am currently pursuing my master's degree in Computer Science at Columbia Unive
 <br/>
 <br/>
 
+<!-- 
 ![Yuting's GitHub stats](https://github-readme-stats.vercel.app/api?username=candylyt&show_icons=true&bg_color=00000000&show=reviews,prs_merged) &nbsp;&nbsp;		
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=candylyt&size_weight=0.5&count_weight=0.5)
-
+ -->
 
